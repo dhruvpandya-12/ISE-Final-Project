@@ -1,0 +1,10 @@
+Project documents (open in a browser; each page can be downloaded as Word or PDF)
+================================================================================
+Final report (updated with literature review and logistic regression):
+    https://claude.ai/artifact/QWsNapUxEirQcRjtNmzBNQ
+Every method explained from scratch (v2):
+    https://claude.ai/artifact/2tyJEiMvt24eRZRXCGvNus
+Method-by-method defense speech:
+    https://claude.ai/artifact/YYwbN9UH8ZsftHeuyoiWDv
+Implementation guide (all code, step by step):
+    https://claude.ai/artifact/LjVzZiM56f1tgq5mtwrBLU
